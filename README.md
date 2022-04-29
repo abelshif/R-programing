@@ -1,1 +1,2 @@
-# R-programing-and-statistics-assignment_VG
+# R-programing-and-statistics-assignment
+# Grade: VG
